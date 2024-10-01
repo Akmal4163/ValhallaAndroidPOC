@@ -1,6 +1,6 @@
 # Android SDK and NDK
-export ANDROID_SDK=~/Library/Android/sdk
-export NDK_DIR=$ANDROID_SDK/ndk/25.0.8775105  # <-- Update with the correct NDK path
+export ANDROID_SDK=~/Android/
+export NDK_DIR=$ANDROID_SDK/ndk/25.2.9519653  # <-- Update with the correct NDK path
 # Android toolchain
 export TOOLCHAIN_FILE=$NDK_DIR/build/cmake/android.toolchain.cmake
 
